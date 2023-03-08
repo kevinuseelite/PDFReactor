@@ -1,3 +1,0 @@
-The following has to be installed on the system to use the PDFreactor Python API:
-
-* Python 2.4 or greater

@@ -1,9 +1,0 @@
-The following has to be installed on the system to use the PDFreactor Perl API:
-
-Perl Modules:
-* HTTP::Cookies
-* HTTP::Headers
-* HTTP::Request
-* JSON;
-* LWP::Protocol::https
-* LWP::UserAgent

@@ -1,3 +1,0 @@
-The following has to be installed on the system to use the PDFreactor Ruby API:
-
-* Ruby 1.8 or greater
